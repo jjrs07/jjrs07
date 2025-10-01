@@ -33,7 +33,7 @@ With a background in IT support, systems and databases administration, I now spe
 - 🧪 [**AWS Beginner Lab Collection**](https://github.com/jjrs07/AWS_Restart_Lab)  
   Hands-on labs based on AWS re/Start — ideal for cloud beginners and career shifters.
 
-- 📘 [**Build Your First Cloud Portfolio (eBook)**](https://bit.ly/3Tk6DOZ)  
+- 📘 [**Build Your First Cloud Portfolio (eBook)**]([https://bit.ly/3Tk6DOZ](https://portfolio.mastercloud.guru/))  
   Step-by-step guide to help IT pros build real projects and land opportunities.
 
 - 🐳 Docker Lab (coming soon)  
